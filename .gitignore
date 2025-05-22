@@ -1,0 +1,27 @@
+# IDE
+.idea/
+*.iml
+
+# Maven
+.mvn/
+target/
+out/
+
+# Java junk
+*.class
+
+# Docs
+javadoc/
+*.log
+
+# Releases
+c868final.jar
+c868_finale.exe
+
+# other
+output.txt
+login_activity.txt
+
+# Misc OS noise
+.DS_Store
+Thumbs.db
